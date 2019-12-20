@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css?family=Girassol&display=swap" rel="stylesheet" rel="stylesheet');
 
 body {
-    font-family: 'Lobster', cursive;
-    background-image: linear-gradient( #958ab9 , #30235d);
-    color:   #820000;
+    font-family: 'Girassol', cursive;
+    background-image: linear-gradient( #D8BFD8 , #9370DB);
+    color:   #696969;
     margin: 0;
 }
 
 a {
-    color: mediumpurple;
+    color: antiquewhite;
 }
 
 p {
@@ -29,7 +29,7 @@ h1 {
     font-size: 3em;
     line-height: 1em;
     font-weight: 200;
-    color: white;
+    color: navajowhite;
     text-shadow: 2px 2px 1px #383535;
     
 }
@@ -73,7 +73,7 @@ h2, h3, h4{
 
 footer {
     text-align: center;
-    background-color: black;
-    font-size: 10px;
+    background-color: orange;
+    font-size: 12px;
     padding: 2em;
 }
